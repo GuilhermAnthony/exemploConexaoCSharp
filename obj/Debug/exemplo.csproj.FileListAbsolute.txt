@@ -1,0 +1,14 @@
+C:\Users\Tecnico\source\repos\exemplo\obj\Debug\exemplo.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\exemplo\obj\Debug\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\exemplo\bin\Debug\exemplo.exe.config
+C:\Users\Tecnico\source\repos\exemplo\bin\Debug\exemplo.exe
+C:\Users\Tecnico\source\repos\exemplo\bin\Debug\exemplo.pdb
+C:\Users\Tecnico\source\repos\exemplo\bin\Debug\MySql.Data.dll
+C:\Users\Tecnico\source\repos\exemplo\bin\Debug\System.Memory.dll
+C:\Users\Tecnico\source\repos\exemplo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tecnico\source\repos\exemplo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tecnico\source\repos\exemplo\bin\Debug\System.Buffers.dll
+C:\Users\Tecnico\source\repos\exemplo\bin\Debug\MySql.Data.xml
+C:\Users\Tecnico\source\repos\exemplo\obj\Debug\exemplo.csproj.Up2Date
+C:\Users\Tecnico\source\repos\exemplo\obj\Debug\exemplo.exe
+C:\Users\Tecnico\source\repos\exemplo\obj\Debug\exemplo.pdb
